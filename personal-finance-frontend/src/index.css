@@ -1,0 +1,2 @@
+/* index.css — re-export project styles so existing import in main.jsx works */
+@import './styles/style.css';
